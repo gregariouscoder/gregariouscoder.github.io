@@ -2,7 +2,15 @@ baseURL = 'https://blog.gregariouscoder.dev/'
 languageCode = 'en-us'
 title = 'Gregarious Coder'
 theme = 'hugo-bearcub'
-
+copyright = "Gregarious Coder (CC BY SA 4.0)"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[languages]
+	[languages.en]
+	languageName = "en-US us"
+	LanguageCode = "en-US"
+	contentDir = "content"
+	[languages.en.params]
+		madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"

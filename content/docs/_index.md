@@ -1,5 +1,5 @@
 ---
-"title:": docs
-menu: main
+title: "docs"
+menu: "main"
 weight: 2
 ---
