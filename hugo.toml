@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.gregariouscoder.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Gregarious Coder'
+theme = 'hugo-bearcub'
 
 [caches]
   [caches.images]
